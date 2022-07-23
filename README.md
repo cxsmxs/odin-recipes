@@ -1,6 +1,6 @@
 # odin-recipes
-First attempt at creating a website with different elements via HTML
+First attempt at creating a website with different elements via HTML and CSS
 
-Project will be rough due to no exposure to CSS Formatting yet
+Will be adding more complex CSS styles once I learn more
 
 This website will showcase some recipes with pictures and sub-pages.
