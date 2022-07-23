@@ -1,0 +1,41 @@
+.recipe-link{
+    font-size: 24px;
+    font-weight: bold;
+    color: brown;
+}
+
+.recipe-head{
+    color: blue;
+    font-size: 40px;
+    text-align: center;
+}
+
+.drink-image {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ingredients {
+    text-decoration: underline;
+    color: blueviolet;
+    font-weight: bold;
+    
+}
+
+* {
+    background: indianred;
+    font-family: 'Monaco', Courier, monospace;
+}
+
+.barware {
+    text-decoration: underline;
+    color: chartreuse;
+}
+
+.steps {
+    text-decoration: underline;
+    color: maroon;
+}
