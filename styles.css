@@ -1,7 +1,12 @@
 .recipe-link{
     font-size: 24px;
     font-weight: bold;
-    color: brown;
+    color: azure;
+    text-align: center;
+}
+
+.link{
+    color: burlywood;
 }
 
 .recipe-head{
@@ -38,4 +43,15 @@
 .steps {
     text-decoration: underline;
     color: maroon;
+}
+
+.home-image{
+    width: 100%;
+    max-width: 3440px;
+    min-width: 1920px;
+    height: 1000px;
+}
+
+.home-recipes{
+    text-align: center;
 }
